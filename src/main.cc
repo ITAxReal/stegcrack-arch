@@ -1,5 +1,6 @@
 // © 2021 Lorian Richmond
 
+#include <stdint.h>
 #include "ui.hh"
 #include "utils.hh"
 #include "ExtractedData.hh"

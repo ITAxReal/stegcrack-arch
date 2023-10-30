@@ -1,5 +1,6 @@
 // © 2021 Lorian Richmond
 
+#include <stdint.h>
 #include "Extractor.hh"
 #include <iostream>
 #include <assert.h>
